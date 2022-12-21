@@ -1,4 +1,1 @@
-# WTF is Noun Site?
-
-Congrats on deploying your new nounish website ✨. Head to `/templates/home/description.md` to edit this description.
-For full documentation visit the [Noun Site](https://github.com/neokry/noun-site) page on github.
+OnChainKidz is an enjoyable NFT project that is entirely OnChain. It features doodle art that is extremely intricate and has hundreds of variations!

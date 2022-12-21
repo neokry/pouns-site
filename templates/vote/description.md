@@ -1,3 +1,3 @@
-# My DAO Governance
+# OnChainKidz
 
-Edit your voting description in the `templates/vote/description.md` file
+Kidz members can vote on proposals or delegate their vote to a third party.
